@@ -1,0 +1,45 @@
+body {
+  background-color: black;
+  overflow-x: hidden;
+}
+* {
+  font-family: 'Lobster', cursive;
+}
+
+.logo {
+  width: 70px;
+}
+.logo_foo {
+  width: 250px;
+}
+.width {
+  width: 95%;
+}
+.img {
+  width: 1330px;
+}
+footer {
+  background-color: #696969;
+  border-top: 5px solid #818181;
+  margin-top: 20px;
+}
+main {
+  background-color: black;
+}
+header{
+  background-color: #696969;
+  border-bottom: 5px solid #5f5f5f;
+  margin-bottom: 20px;
+}
+.margin_repa {
+  margin-bottom: 40px;
+}
+.margin_gale {
+  margin-bottom: 20px;
+}
+.margin_img {
+  margin-bottom: 10px;
+}
+.text {
+  color: #464545;
+}
